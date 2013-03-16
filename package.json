@@ -4,7 +4,20 @@
   "description": "nib support for CompoundJS's AssetsCompiler",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "1.8.1",
+    "should": "1.2.2",
+    "semicov": "0.1.1",
+    "supertest": "0.5.1",
+    "co-assets-compiler": "*",
+
+    "compound": "1.x",
+    "express": "3.x"
   },
   "repository": {
     "type": "git",
