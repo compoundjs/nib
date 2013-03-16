@@ -1,0 +1,3 @@
+[submodule "nib"]
+	path = nib
+	url = git://github.com/visionmedia/nib.git

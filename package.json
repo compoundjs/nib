@@ -1,0 +1,24 @@
+{
+  "name": "co-nib",
+  "version": "0.0.1",
+  "description": "nib support for CompoundJS's AssetsCompiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/compoundjs/nib"
+  },
+  "keywords": [
+    "nib",
+    "css",
+    "stylus",
+    "stylesheets",
+    "compiler",
+    "middleware",
+    "compound"
+  ],
+  "author": "Sascha Gehlich <sascha@gehlich.us>",
+  "license": "MIT"
+}

@@ -1,0 +1,1 @@
+## nib support for CompoundJS' asset compiler
