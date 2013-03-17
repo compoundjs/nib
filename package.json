@@ -1,6 +1,6 @@
 {
   "name": "co-nib",
-  "version": "0.0.1",
+  "version": "0.0.1-1",
   "description": "nib support for CompoundJS's AssetsCompiler",
   "main": "index.js",
   "scripts": {
