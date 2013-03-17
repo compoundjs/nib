@@ -1,13 +1,11 @@
 {
   "name": "co-nib",
-  "version": "0.0.1-1",
+  "version": "0.0.1-2",
   "description": "nib support for CompoundJS's AssetsCompiler",
   "main": "index.js",
   "scripts": {
-    "test": "make test"
-  },
-  "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "preinstall": "git submodule update -i -r"
   },
   "devDependencies": {
     "mocha": "1.8.1",
