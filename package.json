@@ -7,7 +7,8 @@
     "test": "make test"
   },
   "dependencies": {
-    "nib": "0.9.1"
+    "nib": "0.9.1",
+    "stylus": "0.32.1"
   },
   "devDependencies": {
     "mocha": "1.8.1",
