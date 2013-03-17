@@ -9,9 +9,6 @@
   "scripts": {
     "test": "make test"
   },
-  "dependencies": {
-    "stylus": "0.32.1"
-  },
   "devDependencies": {
     "mocha": "1.8.1",
     "should": "1.2.2",
