@@ -4,8 +4,10 @@
   "description": "nib support for CompoundJS's AssetsCompiler",
   "main": "index.js",
   "scripts": {
-    "test": "make test",
-    "preinstall": "git submodule update -i -r"
+    "test": "make test"
+  },
+  "dependencies": {
+    "nib": "0.9.1"
   },
   "devDependencies": {
     "mocha": "1.8.1",
